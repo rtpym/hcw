@@ -1,0 +1,60 @@
+spring:
+  profiles:
+    active:
+      - dev
+
+---
+server:
+  port: 7001
+spring:
+  profiles: dev
+  application:
+    name: eureka-server
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost/eureka/
+info:
+  app.name: hcw
+  company.name: www.pym.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
+----
+server:
+  port: 7002
+spring:
+  profiles: test
+  application:
+    name: eureka-server
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost/eureka/
+info:
+  app.name: hcw
+  company.name: www.pym.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
+
+
+
+
+
+
+
+
+
+#spring:
+#  application:
+
+#    name: microservice-config-client
