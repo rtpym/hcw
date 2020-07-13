@@ -17,14 +17,14 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
     service-url:
-      defaultZone: http://localhost/eureka/
+      defaultZone: http://localhost:7001/eureka/
 info:
   app.name: hcw
   company.name: www.pym.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$
 
-----
+---
 server:
   port: 7002
 spring:
@@ -38,7 +38,7 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
     service-url:
-      defaultZone: http://localhost/eureka/
+      defaultZone: http://localhost:7002/eureka/
 info:
   app.name: hcw
   company.name: www.pym.com
