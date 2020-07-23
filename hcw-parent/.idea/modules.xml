@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hcw-common/hcw-common.iml" filepath="$PROJECT_DIR$/hcw-common/hcw-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-config/hcw-config.iml" filepath="$PROJECT_DIR$/hcw-config/hcw-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-dashboard/hcw-dashboard.iml" filepath="$PROJECT_DIR$/hcw-dashboard/hcw-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-msg/hcw-msg.iml" filepath="$PROJECT_DIR$/hcw-msg/hcw-msg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-msg/hcw-msg-api/hcw-msg-api.iml" filepath="$PROJECT_DIR$/hcw-msg/hcw-msg-api/hcw-msg-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-msg/hcw-msg-service/hcw-msg-service.iml" filepath="$PROJECT_DIR$/hcw-msg/hcw-msg-service/hcw-msg-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-parent.iml" filepath="$PROJECT_DIR$/hcw-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-pay/hcw-pay.iml" filepath="$PROJECT_DIR$/hcw-pay/hcw-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-pay/hcw-pay-api/hcw-pay-api.iml" filepath="$PROJECT_DIR$/hcw-pay/hcw-pay-api/hcw-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-pay/hcw-pay-service/hcw-pay-service.iml" filepath="$PROJECT_DIR$/hcw-pay/hcw-pay-service/hcw-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-pay/hcw-pay-web/hcw-pay-web.iml" filepath="$PROJECT_DIR$/hcw-pay/hcw-pay-web/hcw-pay-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-sys/hcw-sys.iml" filepath="$PROJECT_DIR$/hcw-sys/hcw-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-sys/hcw-sys-api/hcw-sys-api.iml" filepath="$PROJECT_DIR$/hcw-sys/hcw-sys-api/hcw-sys-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-sys/hcw-sys-service/hcw-sys-service.iml" filepath="$PROJECT_DIR$/hcw-sys/hcw-sys-service/hcw-sys-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-sys/hcw-sys-web/hcw-sys-web.iml" filepath="$PROJECT_DIR$/hcw-sys/hcw-sys-web/hcw-sys-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hcw-zuul/hcw-zuul.iml" filepath="$PROJECT_DIR$/hcw-zuul/hcw-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwc-eureka/hwc-eureka.iml" filepath="$PROJECT_DIR$/hwc-eureka/hwc-eureka.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>LOGIN</title>
+</head>
+<body>
+    <form method="post" action="/login">
+        <input type="text" name="userName" th:value="${userName}" />
+        <input type="password" name="password" th:value="${password}" />
+        <input type="submit" value="登录">
+    </form>
+    <p><span>其他登录：</span><img src="../static/imgs/qq.png"></p>
+    <span th:text="${errorMsg}"></span>
+</body>
+</html>

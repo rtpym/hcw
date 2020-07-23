@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-msg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-msg/hcw-msg-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-msg/hcw-msg-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-pay/hcw-pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-pay/hcw-pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-pay/hcw-pay-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-sys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-sys/hcw-sys-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-sys/hcw-sys-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-sys/hcw-sys-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hcw-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hwc-eureka" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      discovery:
+        enabled: true
+      name: eureka-server
+      profile: dev
+      label: master
+      uri: http://localhost:9999

@@ -1,0 +1,24 @@
+server:
+  port: 9999
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:rtpym/hcw.git
+          search-paths: configs
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${server.port}
+info:
+  app.name: hcw
+  company.name: www.pym.com
+  build.artifactId: hcw-config
+  build.version: 0.0.1-SNAPSHOT

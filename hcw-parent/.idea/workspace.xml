@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/hcw-msg/hcw-msg-service/src/main/java/com/pym/msg/service/MsgService.java" line="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eae33f79-4133-406b-a145-71720f555e22" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-common/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-sys/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-sys/hcw-sys-dao/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-sys/hcw-sys-service/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-sys/hcw-sys-web/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-sys/hcw-sys-test/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-sys/hcw-sys-api/target/" />
+    <ignored path="$PROJECT_DIR$/hwc-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-config/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-msg/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-msg/hcw-msg-api/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-msg/hcw-msg-service/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-pay/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-pay/hcw-pay-api/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-pay/hcw-pay-service/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-weixin/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-weixin/hcw-weixin-service/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-pay/hcw-pay-web/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/hcw-zuul/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hcw-parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.15.RELEASE/spring-boot-2.1.15.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="253" column="75" lean-forward="true" selection-start-line="253" selection-start-column="75" selection-end-line="253" selection-end-column="75" />
+              <folding>
+                <element signature="e#4912#4913#0" expanded="true" />
+                <element signature="e#4970#4971#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.16.RELEASE/spring-core-5.1.16.RELEASE.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.3/mybatis-spring-boot-autoconfigure-2.1.3.jar!/META-INF/spring.factories">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.3/mybatis-spring-boot-autoconfigure-2.1.3.jar!/org/mybatis/spring/boot/autoconfigure/MybatisLanguageDriverAutoConfiguration.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.3/mybatis-spring-boot-autoconfigure-2.1.3.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.16.RELEASE/spring-context-5.1.16.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.16.RELEASE/spring-context-5.1.16.RELEASE.jar!/org/springframework/context/ConfigurableApplicationContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.15.RELEASE/spring-boot-2.1.15.RELEASE.jar!/org/springframework/boot/WebApplicationType.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.15.RELEASE/spring-boot-2.1.15.RELEASE.jar!/org/springframework/boot/SpringApplicationRunListeners.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.15.RELEASE/spring-boot-2.1.15.RELEASE.jar!/org/springframework/boot/SpringApplicationRunListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Singleton" />
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/configs" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hcw-msg/hcw-msg-service/src/main/java/com/pym/msg/handler/MsgExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/hcw-msg/hcw-msg-service/src/main/java/com/pym/msg/MsgServiceServer.java" />
+        <option value="$PROJECT_DIR$/hcw-msg/hcw-msg-service/src/main/java/com/pym/msg/mq/MqProducerService.java" />
+        <option value="$PROJECT_DIR$/hcw-common/src/main/java/com/pym/base/ResultModel.java" />
+        <option value="$PROJECT_DIR$/hcw-msg/hcw-msg-service/src/main/java/com/pym/msg/ifs/impl/MsgServiceController.java" />
+        <option value="$PROJECT_DIR$/hcw-msg/hcw-msg-api/src/main/java/com/pym/msg/ifs/MsgServiceInterface.java" />
+        <option value="$PROJECT_DIR$/hcw-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/hcw-weixin/hcw-weixin-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/alipay/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-web/src/main/java/com/pym/pay/web/config/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/config.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-api/src/main/java/com/pym/pay/entity/PayInfo.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/handler/ExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/hcw-common/src/main/java/com/pym/constants/Constants.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/PayService.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/PayServiceServer.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/dao/PyaInfoDao.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/util/PayTokenUtils.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-api/pom.xml" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-web/src/main/java/com/pym/pay/web/PayWebServer.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-web/src/main/java/com/pym/pay/web/config/WebMvcRegistrationAdapter.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-web/src/main/java/com/pym/pay/web/config/ExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-api/src/main/java/com/pym/pay/feign/PayServiceFeign.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-web/pom.xml" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/dao/PayInfoDao.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/config/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-api/src/main/java/com/pym/pay/ifs/PayServiceInterface.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/ifs/impl/PayController.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-web/src/main/java/com/pym/pay/web/controller/AlipayController.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/service/PayService.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/config/PayDruidConfig.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/service/impl/PayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/hcw-pay/hcw-pay-service/pom.xml" />
+        <option value="$PROJECT_DIR$/hcw-sys/hcw-sys-api/pom.xml" />
+        <option value="$PROJECT_DIR$/hcw-sys/hcw-sys-api/src/main/java/com/pym/sys/feign/SysUserFeign.java" />
+        <option value="$PROJECT_DIR$/hcw-sys/hcw-sys-api/src/main/java/com/pym/sys/feign/fallback/SysUserFeignFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/hcw-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/hcw-dashboard/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hcw-dashboard/src/main/java/com/pym/DashBoardServer.java" />
+        <option value="$PROJECT_DIR$/hcw-sys/hcw-sys-web/pom.xml" />
+        <option value="$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/java/com/pym/SysWebServer.java" />
+        <option value="$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hcw-zuul/src/main/java/com/pym/ZuulServer.java" />
+        <option value="$PROJECT_DIR$/hcw-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/hcw-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/java/com/pym/sys/web/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/resources/templates/login.html" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="669" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcw-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcw-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcw-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcw-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcw-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcw-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcw-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys" type="462c0819:PsiDirectoryNode" />
+              <item name="hcw-sys-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pym" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:2.1.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:2.1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-spring-boot-autoconfigure-2.1.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:2.1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="mybatis-spring-boot-autoconfigure-2.1.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcw-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.mybatis.spring.boot:mybatis-spring-boot-starter:2.1.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hcw-pay/hcw-pay-web/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pym" />
+      <recent name="com.pym.pay.config" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\IdeaProjects\hcw-parent\hcw-pay\hcw-pay-web\src\main\resources" />
+      <recent name="D:\idea\IdeaProjects\hcw-parent\hcw-pay\hcw-pay-service\lib" />
+      <recent name="D:\idea\IdeaProjects\hcw-parent\hcw-pay\hcw-pay-service\src\main\java\com\pym\pay\alipay" />
+      <recent name="D:\idea\IdeaProjects\hcw-parent\hcw-common\src\main\java\com\pym\condition\config" />
+      <recent name="D:\idea\IdeaProjects\hcw-parent\hwc-eureka\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pym.pay.web.config" />
+      <recent name="com.pym.pay.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\IdeaProjects\hcw-parent\hcw-sys\hcw-sys-web\src\main\resources\static\imgs" />
+      <recent name="D:\idea\IdeaProjects\hcw-parent\hcw-sys\hcw-sys-service\src\main\resources" />
+      <recent name="D:\idea\IdeaProjects\hcw-parent\hcw-sys\hcw-sys-web\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulServer">
+    <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pym.constants.Constants" />
+      <module name="hcw-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pym.constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hcw-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pym.ConfigServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBoardServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hcw-dashboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pym.DashBoardServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hwc-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pym.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pym.EurekaServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsgServiceServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hcw-msg-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pym.msg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pym.msg.MsgServiceServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayServiceServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hcw-pay-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pym.pay.PayServiceServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayWebServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hcw-pay-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pym.PayWebServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysServiceServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hcw-sys-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pym.SysServiceServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SysWebServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hcw-sys-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pym.SysWebServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hcw-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pym.ZuulServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DashBoardServer" />
+        <item itemvalue="Spring Boot.EurekaServer" />
+        <item itemvalue="Spring Boot.ConfigServer" />
+        <item itemvalue="Spring Boot.MsgServiceServer" />
+        <item itemvalue="Application.Constants" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eae33f79-4133-406b-a145-71720f555e22" name="Default Changelist" comment="" />
+      <created>1593525314060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593525314060</updated>
+      <workItem from="1593525319871" duration="4698000" />
+      <workItem from="1593608657675" duration="197000" />
+      <workItem from="1593686056972" duration="10010000" />
+      <workItem from="1593777525497" duration="10674000" />
+      <workItem from="1594625995922" duration="787000" />
+      <workItem from="1594651719855" duration="8600000" />
+      <workItem from="1594695906181" duration="47802000" />
+      <workItem from="1594771341118" duration="34266000" />
+      <workItem from="1594864975246" duration="25590000" />
+      <workItem from="1594952523826" duration="42169000" />
+      <workItem from="1595040505385" duration="34519000" />
+      <workItem from="1595128085200" duration="20594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="239906000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4913232" visible="true" weight="0.23507462" />
+      <window_info id="Structure" order="1" sideWeight="0.50867677" side_tool="true" weight="0.23507462" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50419164" side_tool="true" weight="0.19734043" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962547" weight="0.39045554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34164858" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286334" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50037456" side_tool="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286334" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="SBT Execute" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="bottom" id="Thumbnails" order="17" weight="0.32968238" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.015957447" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.30956239" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32978722" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49244714" visible="true" weight="0.4528302" />
+      <window_info id="Structure" order="1" sideWeight="0.50755286" side_tool="true" weight="0.19734043" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50419164" side_tool="true" weight="0.19734043" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962547" visible="true" weight="0.39101863" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34164858" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286334" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50037456" side_tool="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286334" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="SBT Execute" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="bottom" id="Thumbnails" order="17" weight="0.32968238" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.015957447" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.30956239" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32978722" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hcw_parent$EurekaServer.ic" NAME="EurekaServer Coverage Results" MODIFIED="1594959103143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.pym.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/ifs/impl/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="136" column="9" selection-start-line="105" selection-start-column="8" selection-end-line="136" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/config/AlipayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="27" column="438" selection-start-line="27" selection-start-column="438" selection-end-line="27" selection-end-column="438" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alipay/sdk/alipay-sdk-java/4.8.103.ALL/alipay-sdk-java-4.8.103.ALL.jar!/com/alipay/api/internal/util/AlipaySignature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="216" column="25" selection-start-line="216" selection-start-column="25" selection-end-line="216" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/service/PayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/config/PayDruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-pay/hcw-pay-service/src/main/java/com/pym/pay/service/impl/PayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-pay/hcw-pay-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.5.RELEASE/spring-cloud-openfeign-core-2.1.5.RELEASE.jar!/org/springframework/cloud/openfeign/support/FeignHttpClientProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="103" column="46" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="46" />
+          <folding>
+            <element signature="e#3034#3035#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.5.RELEASE/spring-cloud-openfeign-core-2.1.5.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-pay/hcw-pay-api/src/main/java/com/pym/pay/feign/PayServiceFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-api/src/main/java/com/pym/sys/feign/SysUserFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-api/src/main/java/com/pym/sys/feign/fallback/SysUserFeignFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-dashboard/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-dashboard/src/main/java/com/pym/DashBoardServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-msg/hcw-msg-service/src/main/java/com/pym/msg/ifs/impl/MsgServiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-577">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.1.5.RELEASE/spring-cloud-netflix-zuul-2.1.5.RELEASE.jar!/org/springframework/cloud/netflix/zuul/EnableZuulProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/java/com/pym/sys/web/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/java/com/pym/sys/web/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-msg/hcw-msg-service/src/main/java/com/pym/msg/MsgServiceServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-msg/hcw-msg-service/src/main/java/com/pym/msg/mq/MqProducerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-449">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hwc-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-zuul/src/main/java/com/pym/ZuulServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.15.RELEASE/spring-boot-autoconfigure-2.1.15.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.15.RELEASE/spring-boot-autoconfigure-2.1.15.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.15.RELEASE/spring-boot-autoconfigure-2.1.15.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hcw-sys/hcw-sys-web/src/main/java/com/pym/SysWebServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.16.RELEASE/spring-core-5.1.16.RELEASE.jar!/org/springframework/util/StopWatch.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_91/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="131" column="21" lean-forward="true" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.15.RELEASE/spring-boot-2.1.15.RELEASE.jar!/org/springframework/boot/WebApplicationType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.16.RELEASE/spring-context-5.1.16.RELEASE.jar!/org/springframework/context/ConfigurableApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/reflect/ConstructorAccessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_91/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="422" column="30" lean-forward="true" selection-start-line="422" selection-start-column="30" selection-end-line="422" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.16.RELEASE/spring-beans-5.1.16.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="93" column="188" lean-forward="true" selection-start-line="93" selection-start-column="188" selection-end-line="93" selection-end-column="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.16.RELEASE/spring-context-5.1.16.RELEASE.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.15.RELEASE/spring-boot-2.1.15.RELEASE.jar!/org/springframework/boot/SpringApplicationRunListeners.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.15.RELEASE/spring-boot-2.1.15.RELEASE.jar!/org/springframework/boot/SpringApplicationRunListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.16.RELEASE/spring-context-5.1.16.RELEASE.jar!/org/springframework/context/ApplicationContextInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.3/mybatis-spring-boot-autoconfigure-2.1.3.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.3/mybatis-spring-boot-autoconfigure-2.1.3.jar!/org/mybatis/spring/boot/autoconfigure/MybatisLanguageDriverAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/2.1.3/mybatis-spring-boot-autoconfigure-2.1.3.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.16.RELEASE/spring-core-5.1.16.RELEASE.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.15.RELEASE/spring-boot-2.1.15.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="253" column="75" lean-forward="true" selection-start-line="253" selection-start-column="75" selection-end-line="253" selection-end-column="75" />
+          <folding>
+            <element signature="e#4912#4913#0" expanded="true" />
+            <element signature="e#4970#4971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

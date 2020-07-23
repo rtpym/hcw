@@ -1,0 +1,9 @@
+com\pym\msg\service\MsgService.class
+com\pym\msg\service\EmailService.class
+com\pym\msg\service\impl\EmailServiceImpl.class
+com\pym\msg\mq\MqCustomerService.class
+com\pym\msg\MsgServiceServer.class
+com\pym\msg\ifs\impl\MsgServiceController.class
+com\pym\msg\mq\MqProducerService.class
+com\pym\msg\config\MqConfig.class
+com\pym\msg\mq\MsgConstants.class

@@ -1,0 +1,17 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: hcw-pay-web
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${server.port}
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+info:
+  app.name: hcw
+  company.name: www.pym.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$

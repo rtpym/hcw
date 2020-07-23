@@ -1,0 +1,59 @@
+server:
+  port: 8088
+spring:
+  activemq:
+    broker-url: failover:(tcp://hadoop01:61616,tcp://hadoop02:61616,tcp://hadoop03:61616)
+    in-memory: false
+    pool:
+      block-if-full: false
+      enabled: true
+      max-connections: 10
+      idle-timeout: 30
+    packages:
+      trust-all: true
+  redis:
+    password: 123456
+    timeout: 6000ms
+    host: localhost
+    port: 6001
+    #    cluster:
+    #      nodes: localhost:6001
+
+    lettuce:
+      pool:
+        max-active: 8
+        max-wait: -1
+        max-idle: 8
+        min-idle: 0
+  # 应用名
+  application:
+    name: hcw-msg-service
+  # 邮件配置
+  mail:
+    host: smtp.sina.com
+    password: 09844ed9a66706be
+    username: rtpym@sina.com
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+    protocol: smtp
+    default-encoding: UTF-8
+    port: 25
+# eureka
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${server.port}
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+
+info:
+  app.name: hcw
+  company.name: www.pym.com
+  build.artifactId: hcw-msg-service
+  build.version: 0.0.1-SNAPSHOT

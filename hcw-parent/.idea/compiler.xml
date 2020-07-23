@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hcw-config" />
+        <module name="hcw-dashboard" />
+        <module name="hcw-msg-service" />
+        <module name="hcw-sys-service" />
+        <module name="hcw-pay-web" />
+        <module name="hcw-sys-web" />
+        <module name="hcw-zuul" />
+        <module name="hcw-pay-api" />
+        <module name="hcw-sys-api" />
+        <module name="hwc-eureka" />
+        <module name="hcw-msg-api" />
+        <module name="hcw-common" />
+        <module name="hcw-pay-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hcw-common" target="1.8" />
+      <module name="hcw-config" target="1.8" />
+      <module name="hcw-dashboard" target="1.8" />
+      <module name="hcw-msg" target="1.8" />
+      <module name="hcw-msg-api" target="1.8" />
+      <module name="hcw-msg-service" target="1.8" />
+      <module name="hcw-parent" target="1.8" />
+      <module name="hcw-pay" target="1.8" />
+      <module name="hcw-pay-api" target="1.8" />
+      <module name="hcw-pay-service" target="1.8" />
+      <module name="hcw-pay-web" target="1.8" />
+      <module name="hcw-sys" target="1.8" />
+      <module name="hcw-sys-api" target="1.8" />
+      <module name="hcw-sys-service" target="1.8" />
+      <module name="hcw-sys-test" target="1.5" />
+      <module name="hcw-sys-web" target="1.8" />
+      <module name="hcw-weixin" target="1.8" />
+      <module name="hcw-weixin-service" target="1.8" />
+      <module name="hcw-zuul" target="1.8" />
+      <module name="hwc-eureka" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hcw-common" options="-parameters" />
+      <module name="hcw-config" options="-parameters" />
+      <module name="hcw-dashboard" options="-parameters" />
+      <module name="hcw-msg" options="-parameters" />
+      <module name="hcw-msg-api" options="-parameters" />
+      <module name="hcw-msg-service" options="-parameters" />
+      <module name="hcw-parent" options="-parameters" />
+      <module name="hcw-pay" options="-parameters" />
+      <module name="hcw-pay-api" options="-parameters" />
+      <module name="hcw-pay-service" options="-parameters" />
+      <module name="hcw-pay-web" options="-parameters" />
+      <module name="hcw-sys" options="-parameters" />
+      <module name="hcw-sys-api" options="-parameters" />
+      <module name="hcw-sys-service" options="-parameters" />
+      <module name="hcw-sys-web" options="-parameters" />
+      <module name="hcw-weixin" options="-parameters" />
+      <module name="hcw-weixin-service" options="-parameters" />
+      <module name="hcw-zuul" options="-parameters" />
+      <module name="hwc-eureka" options="-parameters" />
+    </option>
+  </component>
+</project>

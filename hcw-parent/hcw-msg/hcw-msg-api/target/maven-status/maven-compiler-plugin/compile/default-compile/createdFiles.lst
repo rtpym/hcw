@@ -1,0 +1,5 @@
+com\pym\msg\ifs\MsgServiceInterface.class
+com\pym\msg\model\Content.class
+com\pym\msg\utils\MsgUtils.class
+com\pym\msg\model\EmailContent.class
+com\pym\msg\model\MsgModel.class

@@ -1,0 +1,35 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: hcw-sys-web
+  thymeleaf:
+    cache: false
+  mvc:
+    static-path-pattern: /static/**
+  resources:
+    static-locations: classpath:/static
+eureka:
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${server.port}
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+info:
+  app.name: hcw
+  company.name: www.pym.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+feign:
+  hystrix:
+    enabled: true
+  httpclient:
+    enabled: true
+    max-connections: 20
+    connection-timeout: 1
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream

@@ -1,0 +1,9 @@
+D:\idea\IdeaProjects\hcw-parent\hcw-msg\hcw-msg-service\src\main\java\com\pym\msg\config\MqConfig.java
+D:\idea\IdeaProjects\hcw-parent\hcw-msg\hcw-msg-service\src\main\java\com\pym\msg\MsgServiceServer.java
+D:\idea\IdeaProjects\hcw-parent\hcw-msg\hcw-msg-service\src\main\java\com\pym\msg\ifs\impl\MsgServiceController.java
+D:\idea\IdeaProjects\hcw-parent\hcw-msg\hcw-msg-service\src\main\java\com\pym\msg\mq\MqCustomerService.java
+D:\idea\IdeaProjects\hcw-parent\hcw-msg\hcw-msg-service\src\main\java\com\pym\msg\mq\MqProducerService.java
+D:\idea\IdeaProjects\hcw-parent\hcw-msg\hcw-msg-service\src\main\java\com\pym\msg\mq\MsgConstants.java
+D:\idea\IdeaProjects\hcw-parent\hcw-msg\hcw-msg-service\src\main\java\com\pym\msg\service\impl\EmailServiceImpl.java
+D:\idea\IdeaProjects\hcw-parent\hcw-msg\hcw-msg-service\src\main\java\com\pym\msg\service\EmailService.java
+D:\idea\IdeaProjects\hcw-parent\hcw-msg\hcw-msg-service\src\main\java\com\pym\msg\service\MsgService.java

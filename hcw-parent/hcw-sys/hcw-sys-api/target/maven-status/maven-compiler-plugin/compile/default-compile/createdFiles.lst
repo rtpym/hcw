@@ -1,0 +1,5 @@
+com\pym\sys\pojo\SysMenu.class
+com\pym\sys\pojo\SysUser.class
+com\pym\sys\feign\SysUserFeign.class
+com\pym\sys\ifs\SysUserInterface.class
+com\pym\sys\pojo\SysRole.class
